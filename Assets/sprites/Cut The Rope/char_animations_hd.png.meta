@@ -1,151 +1,429 @@
 fileFormatVersion: 2
 guid: a74b32d0caafc4052b0a323491a019f7
-timeCreated: 1526115273
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Idle01
-    21300002: char_animations_hd_1
-    21300004: char_animations_hd_2
-    21300006: sad01
-    21300008: sad02
-    21300010: sad03
-    21300012: sad04
-    21300014: char_animations_hd_7
-    21300016: Idle02
-    21300018: sad05
-    21300020: sad06
-    21300022: char_animations_hd_11
-    21300024: char_animations_hd_12
-    21300026: char_animations_hd_13
-    21300028: char_animations_hd_14
-    21300030: char_animations_hd_15
-    21300032: char_animations_hd_16
-    21300034: char_animations_hd_17
-    21300036: char_animations_hd_18
-    21300038: char_animations_hd_19
-    21300040: Idle03
-    21300042: eat01
-    21300044: char_animations_hd_22
-    21300046: char_animations_hd_23
-    21300048: char_animations_hd_24
-    21300050: char_animations_hd_25
-    21300052: char_animations_hd_26
-    21300054: char_animations_hd_27
-    21300056: char_animations_hd_28
-    21300058: char_animations_hd_29
-    21300060: char_animations_hd_30
-    21300062: char_animations_hd_31
-    21300064: char_animations_hd_32
-    21300066: Idle04
-    21300068: eat02
-    21300070: eating01
-    21300072: eating02
-    21300074: char_animations_hd_37
-    21300076: char_animations_hd_38
-    21300078: char_animations_hd_39
-    21300080: char_animations_hd_40
-    21300082: char_animations_hd_41
-    21300084: char_animations_hd_42
-    21300086: char_animations_hd_43
-    21300088: Idle05
-    21300090: eat03
-    21300092: eating03
-    21300094: char_animations_hd_47
-    21300096: char_animations_hd_48
-    21300098: char_animations_hd_49
-    21300100: char_animations_hd_50
-    21300102: char_animations_hd_51
-    21300104: char_animations_hd_52
-    21300106: char_animations_hd_53
-    21300108: Idle06
-    21300110: eat04
-    21300112: eating04
-    21300114: char_animations_hd_57
-    21300116: char_animations_hd_58
-    21300118: char_animations_hd_59
-    21300120: char_animations_hd_60
-    21300122: char_animations_hd_61
-    21300124: char_animations_hd_62
-    21300126: char_animations_hd_63
-    21300128: char_animations_hd_64
-    21300130: char_animations_hd_65
-    21300132: Idle07
-    21300134: eat05
-    21300136: eating05
-    21300138: char_animations_hd_69
-    21300140: char_animations_hd_70
-    21300142: char_animations_hd_71
-    21300144: char_animations_hd_72
-    21300146: char_animations_hd_73
-    21300148: char_animations_hd_74
-    21300150: char_animations_hd_75
-    21300152: char_animations_hd_76
-    21300154: char_animations_hd_77
-    21300156: char_animations_hd_78
-    21300158: Idle08
-    21300160: eat06
-    21300162: char_animations_hd_81
-    21300164: char_animations_hd_82
-    21300166: char_animations_hd_83
-    21300168: char_animations_hd_84
-    21300170: char_animations_hd_85
-    21300172: char_animations_hd_86
-    21300174: char_animations_hd_87
-    21300176: char_animations_hd_88
-    21300178: char_animations_hd_89
-    21300180: char_animations_hd_90
-    21300182: char_animations_hd_91
-    21300184: char_animations_hd_92
-    21300186: char_animations_hd_93
-    21300188: char_animations_hd_94
-    21300190: char_animations_hd_95
-    21300192: char_animations_hd_96
-    21300194: Idle09
-    21300196: eat07
-    21300198: char_animations_hd_99
-    21300200: char_animations_hd_100
-    21300202: char_animations_hd_101
-    21300204: char_animations_hd_102
-    21300206: char_animations_hd_103
-    21300208: char_animations_hd_104
-    21300210: Idle010
-    21300212: eat08
-    21300214: char_animations_hd_107
-    21300216: char_animations_hd_108
-    21300218: char_animations_hd_109
-    21300220: char_animations_hd_110
-    21300222: char_animations_hd_111
-    21300224: char_animations_hd_112
-    21300226: char_animations_hd_113
-    21300228: eat09
-    21300230: char_animations_hd_115
-    21300232: char_animations_hd_116
-    21300234: char_animations_hd_117
-    21300236: char_animations_hd_118
-    21300238: char_animations_hd_119
-    21300240: char_animations_hd_120
-    21300242: eat10
-    21300244: char_animations_hd_122
-    21300246: char_animations_hd_123
-    21300248: char_animations_hd_124
-    21300250: char_animations_hd_125
-    21300252: char_animations_hd_126
-    21300254: char_animations_hd_127
-    21300256: eat11
-    21300258: char_animations_hd_129
-    21300260: char_animations_hd_130
-    21300262: char_animations_hd_131
-    21300264: char_animations_hd_132
-    21300266: char_animations_hd_133
-    21300268: char_animations_hd_134
-    21300270: char_animations_hd_135
-    21300272: char_animations_hd_136
-    21300274: char_animations_hd_137
-    21300276: char_animations_hd_138
-    21300278: char_animations_hd_139
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Idle01
+  - first:
+      213: 21300002
+    second: char_animations_hd_1
+  - first:
+      213: 21300004
+    second: char_animations_hd_2
+  - first:
+      213: 21300006
+    second: sad01
+  - first:
+      213: 21300008
+    second: sad02
+  - first:
+      213: 21300010
+    second: sad03
+  - first:
+      213: 21300012
+    second: sad04
+  - first:
+      213: 21300014
+    second: char_animations_hd_7
+  - first:
+      213: 21300016
+    second: Idle02
+  - first:
+      213: 21300018
+    second: sad05
+  - first:
+      213: 21300020
+    second: sad06
+  - first:
+      213: 21300022
+    second: char_animations_hd_11
+  - first:
+      213: 21300024
+    second: char_animations_hd_12
+  - first:
+      213: 21300026
+    second: char_animations_hd_13
+  - first:
+      213: 21300028
+    second: char_animations_hd_14
+  - first:
+      213: 21300030
+    second: char_animations_hd_15
+  - first:
+      213: 21300032
+    second: char_animations_hd_16
+  - first:
+      213: 21300034
+    second: char_animations_hd_17
+  - first:
+      213: 21300036
+    second: char_animations_hd_18
+  - first:
+      213: 21300038
+    second: char_animations_hd_19
+  - first:
+      213: 21300040
+    second: Idle03
+  - first:
+      213: 21300042
+    second: eat01
+  - first:
+      213: 21300044
+    second: char_animations_hd_22
+  - first:
+      213: 21300046
+    second: char_animations_hd_23
+  - first:
+      213: 21300048
+    second: char_animations_hd_24
+  - first:
+      213: 21300050
+    second: char_animations_hd_25
+  - first:
+      213: 21300052
+    second: char_animations_hd_26
+  - first:
+      213: 21300054
+    second: char_animations_hd_27
+  - first:
+      213: 21300056
+    second: char_animations_hd_28
+  - first:
+      213: 21300058
+    second: char_animations_hd_29
+  - first:
+      213: 21300060
+    second: char_animations_hd_30
+  - first:
+      213: 21300062
+    second: char_animations_hd_31
+  - first:
+      213: 21300064
+    second: char_animations_hd_32
+  - first:
+      213: 21300066
+    second: Idle04
+  - first:
+      213: 21300068
+    second: eat02
+  - first:
+      213: 21300070
+    second: eating01
+  - first:
+      213: 21300072
+    second: eating02
+  - first:
+      213: 21300074
+    second: char_animations_hd_37
+  - first:
+      213: 21300076
+    second: char_animations_hd_38
+  - first:
+      213: 21300078
+    second: char_animations_hd_39
+  - first:
+      213: 21300080
+    second: char_animations_hd_40
+  - first:
+      213: 21300082
+    second: char_animations_hd_41
+  - first:
+      213: 21300084
+    second: char_animations_hd_42
+  - first:
+      213: 21300086
+    second: char_animations_hd_43
+  - first:
+      213: 21300088
+    second: Idle05
+  - first:
+      213: 21300090
+    second: eat03
+  - first:
+      213: 21300092
+    second: eating03
+  - first:
+      213: 21300094
+    second: char_animations_hd_47
+  - first:
+      213: 21300096
+    second: char_animations_hd_48
+  - first:
+      213: 21300098
+    second: char_animations_hd_49
+  - first:
+      213: 21300100
+    second: char_animations_hd_50
+  - first:
+      213: 21300102
+    second: char_animations_hd_51
+  - first:
+      213: 21300104
+    second: char_animations_hd_52
+  - first:
+      213: 21300106
+    second: char_animations_hd_53
+  - first:
+      213: 21300108
+    second: Idle06
+  - first:
+      213: 21300110
+    second: eat04
+  - first:
+      213: 21300112
+    second: eating04
+  - first:
+      213: 21300114
+    second: char_animations_hd_57
+  - first:
+      213: 21300116
+    second: char_animations_hd_58
+  - first:
+      213: 21300118
+    second: char_animations_hd_59
+  - first:
+      213: 21300120
+    second: char_animations_hd_60
+  - first:
+      213: 21300122
+    second: char_animations_hd_61
+  - first:
+      213: 21300124
+    second: char_animations_hd_62
+  - first:
+      213: 21300126
+    second: char_animations_hd_63
+  - first:
+      213: 21300128
+    second: char_animations_hd_64
+  - first:
+      213: 21300130
+    second: char_animations_hd_65
+  - first:
+      213: 21300132
+    second: Idle07
+  - first:
+      213: 21300134
+    second: eat05
+  - first:
+      213: 21300136
+    second: eating05
+  - first:
+      213: 21300138
+    second: char_animations_hd_69
+  - first:
+      213: 21300140
+    second: char_animations_hd_70
+  - first:
+      213: 21300142
+    second: char_animations_hd_71
+  - first:
+      213: 21300144
+    second: char_animations_hd_72
+  - first:
+      213: 21300146
+    second: char_animations_hd_73
+  - first:
+      213: 21300148
+    second: char_animations_hd_74
+  - first:
+      213: 21300150
+    second: char_animations_hd_75
+  - first:
+      213: 21300152
+    second: char_animations_hd_76
+  - first:
+      213: 21300154
+    second: char_animations_hd_77
+  - first:
+      213: 21300156
+    second: char_animations_hd_78
+  - first:
+      213: 21300158
+    second: Idle08
+  - first:
+      213: 21300160
+    second: eat06
+  - first:
+      213: 21300162
+    second: char_animations_hd_81
+  - first:
+      213: 21300164
+    second: char_animations_hd_82
+  - first:
+      213: 21300166
+    second: char_animations_hd_83
+  - first:
+      213: 21300168
+    second: char_animations_hd_84
+  - first:
+      213: 21300170
+    second: char_animations_hd_85
+  - first:
+      213: 21300172
+    second: char_animations_hd_86
+  - first:
+      213: 21300174
+    second: char_animations_hd_87
+  - first:
+      213: 21300176
+    second: char_animations_hd_88
+  - first:
+      213: 21300178
+    second: char_animations_hd_89
+  - first:
+      213: 21300180
+    second: char_animations_hd_90
+  - first:
+      213: 21300182
+    second: char_animations_hd_91
+  - first:
+      213: 21300184
+    second: char_animations_hd_92
+  - first:
+      213: 21300186
+    second: char_animations_hd_93
+  - first:
+      213: 21300188
+    second: char_animations_hd_94
+  - first:
+      213: 21300190
+    second: char_animations_hd_95
+  - first:
+      213: 21300192
+    second: char_animations_hd_96
+  - first:
+      213: 21300194
+    second: Idle09
+  - first:
+      213: 21300196
+    second: eat07
+  - first:
+      213: 21300198
+    second: char_animations_hd_99
+  - first:
+      213: 21300200
+    second: char_animations_hd_100
+  - first:
+      213: 21300202
+    second: char_animations_hd_101
+  - first:
+      213: 21300204
+    second: char_animations_hd_102
+  - first:
+      213: 21300206
+    second: char_animations_hd_103
+  - first:
+      213: 21300208
+    second: char_animations_hd_104
+  - first:
+      213: 21300210
+    second: Idle010
+  - first:
+      213: 21300212
+    second: eat08
+  - first:
+      213: 21300214
+    second: char_animations_hd_107
+  - first:
+      213: 21300216
+    second: char_animations_hd_108
+  - first:
+      213: 21300218
+    second: char_animations_hd_109
+  - first:
+      213: 21300220
+    second: char_animations_hd_110
+  - first:
+      213: 21300222
+    second: char_animations_hd_111
+  - first:
+      213: 21300224
+    second: char_animations_hd_112
+  - first:
+      213: 21300226
+    second: char_animations_hd_113
+  - first:
+      213: 21300228
+    second: eat09
+  - first:
+      213: 21300230
+    second: char_animations_hd_115
+  - first:
+      213: 21300232
+    second: char_animations_hd_116
+  - first:
+      213: 21300234
+    second: char_animations_hd_117
+  - first:
+      213: 21300236
+    second: char_animations_hd_118
+  - first:
+      213: 21300238
+    second: char_animations_hd_119
+  - first:
+      213: 21300240
+    second: char_animations_hd_120
+  - first:
+      213: 21300242
+    second: eat10
+  - first:
+      213: 21300244
+    second: char_animations_hd_122
+  - first:
+      213: 21300246
+    second: char_animations_hd_123
+  - first:
+      213: 21300248
+    second: char_animations_hd_124
+  - first:
+      213: 21300250
+    second: char_animations_hd_125
+  - first:
+      213: 21300252
+    second: char_animations_hd_126
+  - first:
+      213: 21300254
+    second: char_animations_hd_127
+  - first:
+      213: 21300256
+    second: eat11
+  - first:
+      213: 21300258
+    second: char_animations_hd_129
+  - first:
+      213: 21300260
+    second: char_animations_hd_130
+  - first:
+      213: 21300262
+    second: char_animations_hd_131
+  - first:
+      213: 21300264
+    second: char_animations_hd_132
+  - first:
+      213: 21300266
+    second: char_animations_hd_133
+  - first:
+      213: 21300268
+    second: char_animations_hd_134
+  - first:
+      213: 21300270
+    second: char_animations_hd_135
+  - first:
+      213: 21300272
+    second: char_animations_hd_136
+  - first:
+      213: 21300274
+    second: char_animations_hd_137
+  - first:
+      213: 21300276
+    second: char_animations_hd_138
+  - first:
+      213: 21300278
+    second: char_animations_hd_139
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -163,6 +441,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -173,7 +453,7 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -193,11 +473,14 @@ TextureImporter:
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -207,7 +490,9 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Standalone
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -217,7 +502,9 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: iPhone
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -227,7 +514,9 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Android
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -237,7 +526,9 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: WebGL
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -247,6 +538,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -264,6 +556,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_1
       rect:
@@ -278,6 +577,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_2
       rect:
@@ -292,6 +598,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: sad01
       rect:
@@ -306,6 +619,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: sad02
       rect:
@@ -320,6 +640,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: sad03
       rect:
@@ -334,6 +661,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: sad04
       rect:
@@ -348,6 +682,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_7
       rect:
@@ -362,6 +703,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Idle02
       rect:
@@ -376,6 +724,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: sad05
       rect:
@@ -390,6 +745,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: sad06
       rect:
@@ -404,6 +766,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_11
       rect:
@@ -418,6 +787,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_12
       rect:
@@ -432,6 +808,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_13
       rect:
@@ -446,6 +829,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_14
       rect:
@@ -460,6 +850,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_15
       rect:
@@ -474,6 +871,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_16
       rect:
@@ -488,6 +892,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_17
       rect:
@@ -502,6 +913,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_18
       rect:
@@ -516,6 +934,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_19
       rect:
@@ -530,6 +955,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Idle03
       rect:
@@ -544,6 +976,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: eat01
       rect:
@@ -558,6 +997,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_22
       rect:
@@ -572,6 +1018,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_23
       rect:
@@ -586,6 +1039,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_24
       rect:
@@ -600,6 +1060,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_25
       rect:
@@ -614,6 +1081,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_26
       rect:
@@ -628,6 +1102,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_27
       rect:
@@ -642,6 +1123,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_28
       rect:
@@ -656,6 +1144,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_29
       rect:
@@ -670,6 +1165,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_30
       rect:
@@ -684,6 +1186,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_31
       rect:
@@ -698,6 +1207,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_32
       rect:
@@ -712,6 +1228,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Idle04
       rect:
@@ -726,6 +1249,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: eat02
       rect:
@@ -740,6 +1270,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: eating01
       rect:
@@ -754,6 +1291,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: eating02
       rect:
@@ -768,6 +1312,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_37
       rect:
@@ -782,6 +1333,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_38
       rect:
@@ -796,6 +1354,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_39
       rect:
@@ -810,6 +1375,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_40
       rect:
@@ -824,6 +1396,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_41
       rect:
@@ -838,6 +1417,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_42
       rect:
@@ -852,6 +1438,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_43
       rect:
@@ -866,6 +1459,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Idle05
       rect:
@@ -880,6 +1480,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: eat03
       rect:
@@ -894,6 +1501,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: eating03
       rect:
@@ -908,6 +1522,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_47
       rect:
@@ -922,6 +1543,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_48
       rect:
@@ -936,6 +1564,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_49
       rect:
@@ -950,6 +1585,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_50
       rect:
@@ -964,6 +1606,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_51
       rect:
@@ -978,6 +1627,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_52
       rect:
@@ -992,6 +1648,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_53
       rect:
@@ -1006,6 +1669,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Idle06
       rect:
@@ -1020,6 +1690,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: eat04
       rect:
@@ -1034,6 +1711,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: eating04
       rect:
@@ -1048,6 +1732,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_57
       rect:
@@ -1062,6 +1753,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_58
       rect:
@@ -1076,6 +1774,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_59
       rect:
@@ -1090,6 +1795,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_60
       rect:
@@ -1104,6 +1816,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_61
       rect:
@@ -1118,6 +1837,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_62
       rect:
@@ -1132,6 +1858,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_63
       rect:
@@ -1146,6 +1879,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_64
       rect:
@@ -1160,6 +1900,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_65
       rect:
@@ -1174,6 +1921,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Idle07
       rect:
@@ -1188,6 +1942,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: eat05
       rect:
@@ -1202,6 +1963,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: eating05
       rect:
@@ -1216,6 +1984,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_69
       rect:
@@ -1230,6 +2005,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_70
       rect:
@@ -1244,6 +2026,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_71
       rect:
@@ -1258,6 +2047,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_72
       rect:
@@ -1272,6 +2068,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_73
       rect:
@@ -1286,6 +2089,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_74
       rect:
@@ -1300,6 +2110,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_75
       rect:
@@ -1314,6 +2131,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_76
       rect:
@@ -1328,6 +2152,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_77
       rect:
@@ -1342,6 +2173,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_78
       rect:
@@ -1356,6 +2194,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Idle08
       rect:
@@ -1370,6 +2215,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: eat06
       rect:
@@ -1384,6 +2236,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_81
       rect:
@@ -1398,6 +2257,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_82
       rect:
@@ -1412,6 +2278,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_83
       rect:
@@ -1426,6 +2299,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_84
       rect:
@@ -1440,6 +2320,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_85
       rect:
@@ -1454,6 +2341,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_86
       rect:
@@ -1468,6 +2362,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_87
       rect:
@@ -1482,6 +2383,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_88
       rect:
@@ -1496,6 +2404,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_89
       rect:
@@ -1510,6 +2425,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_90
       rect:
@@ -1524,6 +2446,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_91
       rect:
@@ -1538,6 +2467,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_92
       rect:
@@ -1552,6 +2488,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_93
       rect:
@@ -1566,6 +2509,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_94
       rect:
@@ -1580,6 +2530,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_95
       rect:
@@ -1594,6 +2551,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_96
       rect:
@@ -1608,6 +2572,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Idle09
       rect:
@@ -1622,6 +2593,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: eat07
       rect:
@@ -1636,6 +2614,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_99
       rect:
@@ -1650,6 +2635,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_100
       rect:
@@ -1664,6 +2656,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_101
       rect:
@@ -1678,6 +2677,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_102
       rect:
@@ -1692,6 +2698,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_103
       rect:
@@ -1706,6 +2719,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_104
       rect:
@@ -1720,6 +2740,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Idle010
       rect:
@@ -1734,6 +2761,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: eat08
       rect:
@@ -1748,6 +2782,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_107
       rect:
@@ -1762,6 +2803,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_108
       rect:
@@ -1776,6 +2824,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_109
       rect:
@@ -1790,6 +2845,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_110
       rect:
@@ -1804,6 +2866,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_111
       rect:
@@ -1818,6 +2887,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_112
       rect:
@@ -1832,6 +2908,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_113
       rect:
@@ -1846,6 +2929,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: eat09
       rect:
@@ -1860,6 +2950,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_115
       rect:
@@ -1874,6 +2971,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_116
       rect:
@@ -1888,6 +2992,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_117
       rect:
@@ -1902,6 +3013,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_118
       rect:
@@ -1916,6 +3034,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_119
       rect:
@@ -1930,6 +3055,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_120
       rect:
@@ -1944,6 +3076,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: eat10
       rect:
@@ -1958,6 +3097,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_122
       rect:
@@ -1972,6 +3118,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_123
       rect:
@@ -1986,6 +3139,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_124
       rect:
@@ -2000,6 +3160,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_125
       rect:
@@ -2014,6 +3181,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_126
       rect:
@@ -2028,6 +3202,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_127
       rect:
@@ -2042,6 +3223,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: eat11
       rect:
@@ -2056,6 +3244,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_129
       rect:
@@ -2070,6 +3265,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_130
       rect:
@@ -2084,6 +3286,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_131
       rect:
@@ -2098,6 +3307,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_132
       rect:
@@ -2112,6 +3328,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_133
       rect:
@@ -2126,6 +3349,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_134
       rect:
@@ -2140,6 +3370,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_135
       rect:
@@ -2154,6 +3391,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_136
       rect:
@@ -2168,6 +3412,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_137
       rect:
@@ -2182,6 +3433,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_138
       rect:
@@ -2196,6 +3454,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: char_animations_hd_139
       rect:
@@ -2210,9 +3475,26 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
